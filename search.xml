@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello Hexo</title>
+      <link href="/2023/12/28/Hello-Hexo/"/>
+      <url>/2023/12/28/Hello-Hexo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hello-Hexo"><a href="#Hello-Hexo" class="headerlink" title="Hello Hexo"></a>Hello Hexo</h1><p><em><strong>Hello World</strong></em></p><p>以下是一些 Hexo 常用指令的说明：</p><ol><li><p><code>hexo new &quot;文章标题&quot;</code>：创建新文章。使用这个指令可以在 Hexo 项目中创建一篇新的文章，替换 “文章标题” 为你实际的文章标题。</p></li><li><p><code>hexo generate</code>：生成静态文件。这个指令会将 Markdown 文件转换为 HTML 文件，生成静态的博客网站。</p></li><li><p><code>hexo server</code>：启动本地服务器。使用这个指令可以在本地预览生成的博客网站，通过浏览器访问 <code>http://localhost:4000</code> 来查看。</p></li><li><p><code>hexo deploy</code>：部署到线上服务器。这个指令用于将生成的静态文件部署到线上服务器，例如将博客发布到 GitHub Pages 或其他托管平台。</p></li><li><p><code>hexo clean</code>：清理缓存。这个指令会清理 Hexo 项目中的缓存文件，可以在出现问题时尝试使用。</p></li><li><p><code>hexo new_page &quot;页面名称&quot;</code>：创建新页面。使用这个指令可以创建一个新的页面，页面名称替换为你想要创建的实际页面名称。</p></li><li><p><code>hexo new_draft &quot;草稿标题&quot;</code>：创建草稿。这个指令用于创建一篇草稿文章，草稿文章不会被生成为静态文件，只在本地可见，可以在日后继续编辑和发布。</p></li><li><p><code>hexo publish &quot;草稿标题&quot;</code>：发布草稿。使用这个指令可以将草稿文章发布为正式文章，使其可见并生成为静态文件。</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日志 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
